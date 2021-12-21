@@ -39,6 +39,10 @@ No momento meus estudos estão com foco maior em PHP e Laravel, porém tenho fac
 ## Repositórios 
 <p>Alguns projetos que desenvolvi, o mais recente foi o MovieApp, usando como base uma playlist do canal Andre Madarang no Youtube, que é um site de filmes que puxa os dados do filme utilizando a API TMDB.</p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurivilela1704&repo=MovieApp)](https://github.com/yurivilela1704/MovieApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurivilela1704&repo=SeuFilme)](https://github.com/yurivilela1704/SeuFilme)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurivilela1704&repo=TodoList)](https://github.com/yurivilela1704/TodoList)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurivilela1704&repo=PythonCalculator)](https://github.com/yurivilela1704/PythonCalculator)
 
 
 
