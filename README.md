@@ -45,3 +45,5 @@ No momento meus estudos estão com foco maior em PHP e Laravel, porém tenho fac
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurivilela1704&repo=PythonCalculator)](https://github.com/yurivilela1704/PythonCalculator)
 
 
+
+
