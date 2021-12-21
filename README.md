@@ -15,9 +15,9 @@ Meu nome é Yuri Vilela e tenho 22 anos, atualmente estou trabalhando como instr
 
 Sou estudante de engenharia mecânica, devo me formar na metade de 2022, porém decidi migrar para a área de desenvolvimento e hoje dedico boa parte do meu tempo estudante sobre toda a área de programação, utilizando as documentações das linguagens, projetos pelo youtube e também a plataforma da Alura. 
 
-Decidi migrar de área por ser um entusista sobre tudo que envolve tecnologia e ciência, também por enxergar mais oportunidades e liberdade, tanto de modo geral, quanto ao meu perfil. Atualmente as linguagens que estou estudando são PHP, o framework Laravel e também Python, o meu objetivo é trabalhar com back-end. 
+Decidi migrar de área por ser um entusista sobre tudo que envolve tecnologia e ciência, também por enxergar mais oportunidades e liberdade, tanto de modo geral, quanto ao meu perfil. Atualmente as linguagens que estou estudando são PHP, o framework Laravel e também Python, como dito anteriomente, o meu objetivo é trabalhar com back-end. 
 
-Trabalho desde os 15 anos, atuei nas áreas de comunicação/telemarketing, em uma startup de tecnologia/educação e outras experiências menos importantes, atualmente sou instrutor de robótica para mais de 30 crianças e adolescentes em um projeto social na empresa Oficina do Amanhã. 
+Trabalho desde os 15 anos, atuei nas áreas de comunicação/telemarketing, em uma startup de tecnologia/educação e outras experiências menos importantes, e atualmente sou instrutor de robótica para mais de 30 crianças e adolescentes em um projeto social na empresa Oficina do Amanhã. 
 
 Durante toda essa caminhada desenvolvi habilidades como: boa comunicação, liderança, trabalho em equipe, negociação e bom relacionamento com pessoas e clientes dentre outras coisas. 
 
@@ -43,8 +43,3 @@ No momento meus estudos estão com foco maior em PHP e Laravel, porém tenho fac
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurivilela1704&repo=SeuFilme)](https://github.com/yurivilela1704/SeuFilme)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurivilela1704&repo=TodoList)](https://github.com/yurivilela1704/TodoList)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurivilela1704&repo=PythonCalculator)](https://github.com/yurivilela1704/PythonCalculator)
-
-
-
-
-
