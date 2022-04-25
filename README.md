@@ -9,15 +9,19 @@
 
 ## Olá 👋
 
-Meu nome é Yuri Vilela e tenho 22 anos, atualmente estou trabalhando como instrutor de robótica com Arduino em um projeto social voltado para crianças e adolescentes, e no momento também estou em busca do meu primeiro trabalho como desenvolvedor junior back-end.
+Meu nome é Yuri Vilela e tenho 23 anos, atualmente estou trabalhando como Desenvolvedor Junior Full Stack com foco maior em back-end, na empresa NoCartorio.com, uma empresa que desenvolve software web para automação de cartórios, com a linguagem PHP e o framework Laravel.
 
 ## Um pouco sobre mim
 
-Sou estudante de engenharia mecânica, devo me formar na metade de 2022, porém decidi migrar para a área de desenvolvimento e hoje dedico boa parte do meu tempo estudante sobre toda a área de programação, utilizando as documentações das linguagens, projetos pelo youtube e também a plataforma da Alura. 
+Sou estudante de engenharia mecânica, devo me formar na metade de 2022, porém decidi migrar para a área de desenvolvimento.
 
-Decidi migrar de área por ser um entusista sobre tudo que envolve tecnologia e ciência, também por enxergar mais oportunidades e liberdade, tanto de modo geral, quanto ao meu perfil. Atualmente as linguagens que estou estudando são PHP, o framework Laravel e também Python, como dito anteriomente, o meu objetivo é trabalhar com back-end. 
+Decidi migrar de área por ser um entusista sobre tudo que envolve tecnologia e ciência, também por enxergar mais desafios, oportunidades e liberdade, tanto de modo geral, quanto ao meu perfil. 
 
-Trabalho desde os 15 anos, atuei nas áreas de comunicação/telemarketing, em uma startup de tecnologia/educação e outras experiências menos importantes, e atualmente sou instrutor de robótica para mais de 30 crianças e adolescentes em um projeto social na empresa Oficina do Amanhã. 
+Atualmente as linguagens que estou trabalhando e estudando são PHP e o framework Laravel.
+
+Tenho várias outras experiências anteriores, pois trabalho desde os 15 anos, atuei nas áreas de comunicação/telemarketing, também em uma startup de tecnologia/educação, minha última experiência foi como instrutor de robótica para mais de 30 crianças e adolescentes em um projeto social na empresa Oficina do Amanhã e outras experiências menos importantes.
+
+E como já dito, estou em uma empresa como Desenvolvedor Junior web desde Janeiro de 2022, Full Stack com foco maior no back-end.
 
 Durante toda essa caminhada desenvolvi habilidades como: boa comunicação, liderança, trabalho em equipe, negociação e bom relacionamento com pessoas e clientes dentre outras coisas. 
 
@@ -28,13 +32,13 @@ Durante toda essa caminhada desenvolvi habilidades como: boa comunicação, lide
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-No momento meus estudos estão com foco maior em PHP e Laravel, porém tenho facilidade em aprender e caso necessário aprender outras linguagens ou incrementar os estudos em linguagens que sei menos como JS e Python, estou completamente disposto.
+No momento meu maior conhecimento está em PHP e Laravel, pois é o que trabalho e o que mais estudei e estudo diariamente.
+
+Porém tenho facilidade em aprender e caso necessário aprender outras linguagens ou incrementar os estudos em linguagens que sei menos como JS e Python.
 
 ## Repositórios 
 <p>Alguns projetos que desenvolvi, o mais recente foi o MovieApp, usando como base uma playlist do canal Andre Madarang no Youtube, que é um site de filmes que puxa os dados do filme utilizando a API TMDB.</p>
